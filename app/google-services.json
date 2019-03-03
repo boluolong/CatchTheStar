@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908450921996",
+    "firebase_url": "https://catchtheball-3cf52.firebaseio.com",
+    "project_id": "catchtheball-3cf52",
+    "storage_bucket": "catchtheball-3cf52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908450921996:android:c5252b09edfe640e",
+        "android_client_info": {
+          "package_name": "com.example.wangtianlong.catchtheball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908450921996-21v0uo61e6h84fcp2en414vj9oa8rguc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wangtianlong.catchtheball",
+            "certificate_hash": "8625269030952310e8d43a8ecce64bda7f7e6f3a"
+          }
+        },
+        {
+          "client_id": "908450921996-ovv1oi53vh2u7bi03q25qetq2f91fhqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmoMcWLPQmktV_VE__X7sDaouv_T_lXQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908450921996-ovv1oi53vh2u7bi03q25qetq2f91fhqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
